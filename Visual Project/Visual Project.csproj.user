@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="COURSE STUDENT REGİSTRATİON SYSTEM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="COURSE LIST.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TEACHER LIST.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="INSTALLEMENT.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="STUDENT REGİSTRATİON.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="INSTRUCTOR REGISTRATION.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="COURSE CREATION.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ASSIGNMENT.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="HELP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="STUDENT LIST.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FEE.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="REPORT.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Update="ASSIGNMENT.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+</Project>

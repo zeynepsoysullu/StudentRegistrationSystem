@@ -1,0 +1,152 @@
+C:\Users\HP\OneDrive\Masaüstü\visual proje\Visual Project\Visual Project\bin\Debug\net6.0-windows\Visual Project.exe
+C:\Users\HP\OneDrive\Masaüstü\visual proje\Visual Project\Visual Project\bin\Debug\net6.0-windows\Visual Project.deps.json
+C:\Users\HP\OneDrive\Masaüstü\visual proje\Visual Project\Visual Project\bin\Debug\net6.0-windows\Visual Project.runtimeconfig.json
+C:\Users\HP\OneDrive\Masaüstü\visual proje\Visual Project\Visual Project\bin\Debug\net6.0-windows\Visual Project.dll
+C:\Users\HP\OneDrive\Masaüstü\visual proje\Visual Project\Visual Project\bin\Debug\net6.0-windows\ref\Visual Project.dll
+C:\Users\HP\OneDrive\Masaüstü\visual proje\Visual Project\Visual Project\bin\Debug\net6.0-windows\Visual Project.pdb
+C:\Users\HP\OneDrive\Masaüstü\visual proje\Visual Project\Visual Project\obj\Debug\net6.0-windows\Visual Project.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Masaüstü\visual proje\Visual Project\Visual Project\obj\Debug\net6.0-windows\Visual_Project.Form1.resources
+C:\Users\HP\OneDrive\Masaüstü\visual proje\Visual Project\Visual Project\obj\Debug\net6.0-windows\Visual_Project.Form2.resources
+C:\Users\HP\OneDrive\Masaüstü\visual proje\Visual Project\Visual Project\obj\Debug\net6.0-windows\Visual_Project.Form3.resources
+C:\Users\HP\OneDrive\Masaüstü\visual proje\Visual Project\Visual Project\obj\Debug\net6.0-windows\Visual_Project.Form4.resources
+C:\Users\HP\OneDrive\Masaüstü\visual proje\Visual Project\Visual Project\obj\Debug\net6.0-windows\Visual Project.csproj.GenerateResource.cache
+C:\Users\HP\OneDrive\Masaüstü\visual proje\Visual Project\Visual Project\obj\Debug\net6.0-windows\Visual Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Masaüstü\visual proje\Visual Project\Visual Project\obj\Debug\net6.0-windows\Visual Project.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Masaüstü\visual proje\Visual Project\Visual Project\obj\Debug\net6.0-windows\Visual Project.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Masaüstü\visual proje\Visual Project\Visual Project\obj\Debug\net6.0-windows\Visual Project.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Masaüstü\visual proje\Visual Project\Visual Project\obj\Debug\net6.0-windows\Visual Project.dll
+C:\Users\HP\OneDrive\Masaüstü\visual proje\Visual Project\Visual Project\obj\Debug\net6.0-windows\ref\Visual Project.dll
+C:\Users\HP\OneDrive\Masaüstü\visual proje\Visual Project\Visual Project\obj\Debug\net6.0-windows\Visual Project.pdb
+C:\Users\HP\OneDrive\Masaüstü\visual proje\Visual Project\Visual Project\obj\Debug\net6.0-windows\Visual Project.genruntimeconfig.cache
+C:\Users\HP\OneDrive\Masaüstü\visual proje\Visual Project\Visual Project\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\HP\OneDrive\Masaüstü\visual proje\Visual Project\Visual Project\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\HP\OneDrive\Masaüstü\visual proje\Visual Project\Visual Project\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\HP\OneDrive\Masaüstü\visual proje\Visual Project\Visual Project\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\HP\OneDrive\Masaüstü\visual proje\Visual Project\Visual Project\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\HP\OneDrive\Masaüstü\visual proje\Visual Project\Visual Project\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\HP\OneDrive\Masaüstü\visual proje\Visual Project\Visual Project\obj\Debug\net6.0-windows\Visual Project.csproj.CopyComplete
+C:\Users\HP\OneDrive\Masaüstü\visual proje\Visual Project\Visual Project\obj\Debug\net6.0-windows\Visual_Project.Form5.resources
+C:\Users\HP\OneDrive\Masaüstü\visual proje\Visual Project\Visual Project\obj\Debug\net6.0-windows\Visual_Project.Properties.Resources.resources
+C:\Users\HP\OneDrive\Masaüstü\visual proje\Visual Project\Visual Project\obj\Debug\net6.0-windows\Visual_Project.Login.resources
+C:\Users\HP\OneDrive\Masaüstü\visual proje\Visual Project\Visual Project\obj\Debug\net6.0-windows\Visual_Project.Form7.resources
+C:\Users\HP\OneDrive\Masaüstü\visual proje\Visual Project\Visual Project\obj\Debug\net6.0-windows\Visual_Project.Form8.resources
+C:\Users\HP\OneDrive\Masaüstü\visual proje\Visual Project\Visual Project\obj\Debug\net6.0-windows\Visual_Project.Form9.resources
+C:\Users\HP\OneDrive\Masaüstü\visual proje\Visual Project\Visual Project\obj\Debug\net6.0-windows\Visual_Project.Form10.resources
+C:\Users\HP\OneDrive\Masaüstü\visual proje\Visual Project\Visual Project\obj\Debug\net6.0-windows\Visual_Project.Form11.resources
+C:\Users\HP\OneDrive\Masaüstü\visual proje\Visual Project\Visual Project\bin\Debug\net6.0-windows\MaterialSkin.dll
+C:\Users\HP\OneDrive\Masaüstü\visual proje\Visual Project\Visual Project\obj\Debug\net6.0-windows\Visual_Project.Form6.resources
+C:\Users\HP\OneDrive\Masaüstü\visual proje\Visual Project\Visual Project\obj\Debug\net6.0-windows\Visual_Project.Form12.resources
+C:\Users\HP\OneDrive\Masaüstü\YM\3.sınıf Bahar\visual proje\Visual Project\Visual Project\bin\Debug\net6.0-windows\Visual Project.exe
+C:\Users\HP\OneDrive\Masaüstü\YM\3.sınıf Bahar\visual proje\Visual Project\Visual Project\bin\Debug\net6.0-windows\Visual Project.dll
+C:\Users\HP\OneDrive\Masaüstü\YM\3.sınıf Bahar\visual proje\Visual Project\Visual Project\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\HP\OneDrive\Masaüstü\YM\3.sınıf Bahar\visual proje\Visual Project\Visual Project\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\HP\OneDrive\Masaüstü\YM\3.sınıf Bahar\visual proje\Visual Project\Visual Project\bin\Debug\net6.0-windows\MaterialSkin.dll
+C:\Users\HP\OneDrive\Masaüstü\YM\3.sınıf Bahar\visual proje\Visual Project\Visual Project\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\HP\OneDrive\Masaüstü\YM\3.sınıf Bahar\visual proje\Visual Project\Visual Project\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\HP\OneDrive\Masaüstü\YM\3.sınıf Bahar\visual proje\Visual Project\Visual Project\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\HP\OneDrive\Masaüstü\YM\3.sınıf Bahar\visual proje\Visual Project\Visual Project\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\HP\OneDrive\Masaüstü\YM\3.sınıf Bahar\visual proje\Visual Project\Visual Project\obj\Debug\net6.0-windows\Visual Project.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Masaüstü\YM\3.sınıf Bahar\visual proje\Visual Project\Visual Project\obj\Debug\net6.0-windows\Visual_Project.Form1.resources
+C:\Users\HP\OneDrive\Masaüstü\YM\3.sınıf Bahar\visual proje\Visual Project\Visual Project\obj\Debug\net6.0-windows\Visual_Project.Form10.resources
+C:\Users\HP\OneDrive\Masaüstü\YM\3.sınıf Bahar\visual proje\Visual Project\Visual Project\obj\Debug\net6.0-windows\Visual_Project.Form11.resources
+C:\Users\HP\OneDrive\Masaüstü\YM\3.sınıf Bahar\visual proje\Visual Project\Visual Project\obj\Debug\net6.0-windows\Visual_Project.Form2.resources
+C:\Users\HP\OneDrive\Masaüstü\YM\3.sınıf Bahar\visual proje\Visual Project\Visual Project\obj\Debug\net6.0-windows\Visual_Project.Form3.resources
+C:\Users\HP\OneDrive\Masaüstü\YM\3.sınıf Bahar\visual proje\Visual Project\Visual Project\obj\Debug\net6.0-windows\Visual_Project.Form4.resources
+C:\Users\HP\OneDrive\Masaüstü\YM\3.sınıf Bahar\visual proje\Visual Project\Visual Project\obj\Debug\net6.0-windows\Visual_Project.Form7.resources
+C:\Users\HP\OneDrive\Masaüstü\YM\3.sınıf Bahar\visual proje\Visual Project\Visual Project\obj\Debug\net6.0-windows\Visual_Project.Login.resources
+C:\Users\HP\OneDrive\Masaüstü\YM\3.sınıf Bahar\visual proje\Visual Project\Visual Project\obj\Debug\net6.0-windows\Visual_Project.Properties.Resources.resources
+C:\Users\HP\OneDrive\Masaüstü\YM\3.sınıf Bahar\visual proje\Visual Project\Visual Project\obj\Debug\net6.0-windows\Visual Project.csproj.GenerateResource.cache
+C:\Users\HP\OneDrive\Masaüstü\YM\3.sınıf Bahar\visual proje\Visual Project\Visual Project\obj\Debug\net6.0-windows\Visual Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Masaüstü\YM\3.sınıf Bahar\visual proje\Visual Project\Visual Project\obj\Debug\net6.0-windows\Visual Project.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Masaüstü\YM\3.sınıf Bahar\visual proje\Visual Project\Visual Project\obj\Debug\net6.0-windows\Visual Project.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Masaüstü\YM\3.sınıf Bahar\visual proje\Visual Project\Visual Project\obj\Debug\net6.0-windows\Visual Project.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Masaüstü\YM\3.sınıf Bahar\visual proje\Visual Project\Visual Project\obj\Debug\net6.0-windows\Visual Project.csproj.CopyComplete
+C:\Users\HP\OneDrive\Masaüstü\YM\3.sınıf Bahar\visual proje\Visual Project\Visual Project\obj\Debug\net6.0-windows\Visual Project.dll
+C:\Users\HP\OneDrive\Masaüstü\YM\3.sınıf Bahar\visual proje\Visual Project\Visual Project\obj\Debug\net6.0-windows\refint\Visual Project.dll
+C:\Users\HP\OneDrive\Masaüstü\YM\3.sınıf Bahar\visual proje\Visual Project\Visual Project\obj\Debug\net6.0-windows\Visual Project.pdb
+C:\Users\HP\OneDrive\Masaüstü\YM\3.sınıf Bahar\visual proje\Visual Project\Visual Project\bin\Debug\net6.0-windows\Visual Project.deps.json
+C:\Users\HP\OneDrive\Masaüstü\YM\3.sınıf Bahar\visual proje\Visual Project\Visual Project\bin\Debug\net6.0-windows\Visual Project.runtimeconfig.json
+C:\Users\HP\OneDrive\Masaüstü\YM\3.sınıf Bahar\visual proje\Visual Project\Visual Project\bin\Debug\net6.0-windows\Visual Project.pdb
+C:\Users\HP\OneDrive\Masaüstü\YM\3.sınıf Bahar\visual proje\Visual Project\Visual Project\obj\Debug\net6.0-windows\Visual Project.genruntimeconfig.cache
+C:\Users\HP\OneDrive\Masaüstü\YM\3.sınıf Bahar\visual proje\Visual Project\Visual Project\obj\Debug\net6.0-windows\ref\Visual Project.dll
+C:\Users\HP\OneDrive\Masaüstü\YM\3.sınıf Bahar\visual proje\Visual Project\Visual Project\obj\Debug\net6.0-windows\Visual_Project.ASSIGNMENT.resources
+C:\Users\HP\OneDrive\Masaüstü\YM\3.sınıf Bahar\visual proje\Visual Project\Visual Project\obj\Debug\net6.0-windows\Visual_Project.FEE.resources
+C:\Users\HP\OneDrive\Masaüstü\YM\3.sınıf Bahar\visual proje\Visual Project\Visual Project\obj\Debug\net6.0-windows\Visual_Project.HELP.resources
+C:\Users\HP\OneDrive\Masaüstü\YM\3.sınıf Bahar\visual proje\Visual Project\Visual Project\obj\Debug\net6.0-windows\Visual_Project.INSTALLEMENT.resources
+C:\Users\HP\OneDrive\Masaüstü\YM\3.sınıf Bahar\visual proje\Visual Project\Visual Project\obj\Debug\net6.0-windows\Visual_Project.REPORT.resources
+C:\Users\HP\OneDrive\Masaüstü\Visual Project\Visual Project\bin\Debug\net6.0-windows\Visual Project.exe
+C:\Users\HP\OneDrive\Masaüstü\Visual Project\Visual Project\bin\Debug\net6.0-windows\Visual Project.deps.json
+C:\Users\HP\OneDrive\Masaüstü\Visual Project\Visual Project\bin\Debug\net6.0-windows\Visual Project.runtimeconfig.json
+C:\Users\HP\OneDrive\Masaüstü\Visual Project\Visual Project\bin\Debug\net6.0-windows\Visual Project.dll
+C:\Users\HP\OneDrive\Masaüstü\Visual Project\Visual Project\bin\Debug\net6.0-windows\Visual Project.pdb
+C:\Users\HP\OneDrive\Masaüstü\Visual Project\Visual Project\bin\Debug\net6.0-windows\MaterialSkin.dll
+C:\Users\HP\OneDrive\Masaüstü\Visual Project\Visual Project\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\HP\OneDrive\Masaüstü\Visual Project\Visual Project\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\HP\OneDrive\Masaüstü\Visual Project\Visual Project\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\HP\OneDrive\Masaüstü\Visual Project\Visual Project\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\HP\OneDrive\Masaüstü\Visual Project\Visual Project\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\HP\OneDrive\Masaüstü\Visual Project\Visual Project\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\HP\OneDrive\Masaüstü\Visual Project\Visual Project\obj\Debug\net6.0-windows\Visual Project.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Masaüstü\Visual Project\Visual Project\obj\Debug\net6.0-windows\Visual_Project.ASSIGNMENT.resources
+C:\Users\HP\OneDrive\Masaüstü\Visual Project\Visual Project\obj\Debug\net6.0-windows\Visual_Project.Form4.resources
+C:\Users\HP\OneDrive\Masaüstü\Visual Project\Visual Project\obj\Debug\net6.0-windows\Visual_Project.Form10.resources
+C:\Users\HP\OneDrive\Masaüstü\Visual Project\Visual Project\obj\Debug\net6.0-windows\Visual_Project.Form1.resources
+C:\Users\HP\OneDrive\Masaüstü\Visual Project\Visual Project\obj\Debug\net6.0-windows\Visual_Project.FEE.resources
+C:\Users\HP\OneDrive\Masaüstü\Visual Project\Visual Project\obj\Debug\net6.0-windows\Visual_Project.HELP.resources
+C:\Users\HP\OneDrive\Masaüstü\Visual Project\Visual Project\obj\Debug\net6.0-windows\Visual_Project.INSTALLEMENT.resources
+C:\Users\HP\OneDrive\Masaüstü\Visual Project\Visual Project\obj\Debug\net6.0-windows\Visual_Project.Form3.resources
+C:\Users\HP\OneDrive\Masaüstü\Visual Project\Visual Project\obj\Debug\net6.0-windows\Visual_Project.Login.resources
+C:\Users\HP\OneDrive\Masaüstü\Visual Project\Visual Project\obj\Debug\net6.0-windows\Visual_Project.Properties.Resources.resources
+C:\Users\HP\OneDrive\Masaüstü\Visual Project\Visual Project\obj\Debug\net6.0-windows\Visual_Project.REPORT.resources
+C:\Users\HP\OneDrive\Masaüstü\Visual Project\Visual Project\obj\Debug\net6.0-windows\Visual_Project.Form7.resources
+C:\Users\HP\OneDrive\Masaüstü\Visual Project\Visual Project\obj\Debug\net6.0-windows\Visual_Project.Form2.resources
+C:\Users\HP\OneDrive\Masaüstü\Visual Project\Visual Project\obj\Debug\net6.0-windows\Visual_Project.Form11.resources
+C:\Users\HP\OneDrive\Masaüstü\Visual Project\Visual Project\obj\Debug\net6.0-windows\Visual Project.csproj.GenerateResource.cache
+C:\Users\HP\OneDrive\Masaüstü\Visual Project\Visual Project\obj\Debug\net6.0-windows\Visual Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Masaüstü\Visual Project\Visual Project\obj\Debug\net6.0-windows\Visual Project.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Masaüstü\Visual Project\Visual Project\obj\Debug\net6.0-windows\Visual Project.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Masaüstü\Visual Project\Visual Project\obj\Debug\net6.0-windows\Visual Project.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Masaüstü\Visual Project\Visual Project\obj\Debug\net6.0-windows\Visual Project.csproj.CopyComplete
+C:\Users\HP\OneDrive\Masaüstü\Visual Project\Visual Project\obj\Debug\net6.0-windows\Visual Project.dll
+C:\Users\HP\OneDrive\Masaüstü\Visual Project\Visual Project\obj\Debug\net6.0-windows\refint\Visual Project.dll
+C:\Users\HP\OneDrive\Masaüstü\Visual Project\Visual Project\obj\Debug\net6.0-windows\Visual Project.pdb
+C:\Users\HP\OneDrive\Masaüstü\Visual Project\Visual Project\obj\Debug\net6.0-windows\Visual Project.genruntimeconfig.cache
+C:\Users\HP\OneDrive\Masaüstü\Visual Project\Visual Project\obj\Debug\net6.0-windows\ref\Visual Project.dll
+C:\Users\HP\OneDrive\Masaüstü\YM\3.sınıf Bahar\Visual Project\Visual Project\bin\Debug\net6.0-windows\Visual Project.exe
+C:\Users\HP\OneDrive\Masaüstü\YM\3.sınıf Bahar\Visual Project\Visual Project\bin\Debug\net6.0-windows\Visual Project.deps.json
+C:\Users\HP\OneDrive\Masaüstü\YM\3.sınıf Bahar\Visual Project\Visual Project\bin\Debug\net6.0-windows\Visual Project.runtimeconfig.json
+C:\Users\HP\OneDrive\Masaüstü\YM\3.sınıf Bahar\Visual Project\Visual Project\bin\Debug\net6.0-windows\Visual Project.dll
+C:\Users\HP\OneDrive\Masaüstü\YM\3.sınıf Bahar\Visual Project\Visual Project\bin\Debug\net6.0-windows\Visual Project.pdb
+C:\Users\HP\OneDrive\Masaüstü\YM\3.sınıf Bahar\Visual Project\Visual Project\bin\Debug\net6.0-windows\MaterialSkin.dll
+C:\Users\HP\OneDrive\Masaüstü\YM\3.sınıf Bahar\Visual Project\Visual Project\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\HP\OneDrive\Masaüstü\YM\3.sınıf Bahar\Visual Project\Visual Project\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\HP\OneDrive\Masaüstü\YM\3.sınıf Bahar\Visual Project\Visual Project\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\HP\OneDrive\Masaüstü\YM\3.sınıf Bahar\Visual Project\Visual Project\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\HP\OneDrive\Masaüstü\YM\3.sınıf Bahar\Visual Project\Visual Project\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\HP\OneDrive\Masaüstü\YM\3.sınıf Bahar\Visual Project\Visual Project\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\HP\OneDrive\Masaüstü\YM\3.sınıf Bahar\Visual Project\Visual Project\obj\Debug\net6.0-windows\Visual Project.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Masaüstü\YM\3.sınıf Bahar\Visual Project\Visual Project\obj\Debug\net6.0-windows\Visual_Project.ASSIGNMENT.resources
+C:\Users\HP\OneDrive\Masaüstü\YM\3.sınıf Bahar\Visual Project\Visual Project\obj\Debug\net6.0-windows\Visual_Project.Form4.resources
+C:\Users\HP\OneDrive\Masaüstü\YM\3.sınıf Bahar\Visual Project\Visual Project\obj\Debug\net6.0-windows\Visual_Project.Form10.resources
+C:\Users\HP\OneDrive\Masaüstü\YM\3.sınıf Bahar\Visual Project\Visual Project\obj\Debug\net6.0-windows\Visual_Project.Form1.resources
+C:\Users\HP\OneDrive\Masaüstü\YM\3.sınıf Bahar\Visual Project\Visual Project\obj\Debug\net6.0-windows\Visual_Project.FEE.resources
+C:\Users\HP\OneDrive\Masaüstü\YM\3.sınıf Bahar\Visual Project\Visual Project\obj\Debug\net6.0-windows\Visual_Project.HELP.resources
+C:\Users\HP\OneDrive\Masaüstü\YM\3.sınıf Bahar\Visual Project\Visual Project\obj\Debug\net6.0-windows\Visual_Project.INSTALLEMENT.resources
+C:\Users\HP\OneDrive\Masaüstü\YM\3.sınıf Bahar\Visual Project\Visual Project\obj\Debug\net6.0-windows\Visual_Project.Form3.resources
+C:\Users\HP\OneDrive\Masaüstü\YM\3.sınıf Bahar\Visual Project\Visual Project\obj\Debug\net6.0-windows\Visual_Project.Login.resources
+C:\Users\HP\OneDrive\Masaüstü\YM\3.sınıf Bahar\Visual Project\Visual Project\obj\Debug\net6.0-windows\Visual_Project.Properties.Resources.resources
+C:\Users\HP\OneDrive\Masaüstü\YM\3.sınıf Bahar\Visual Project\Visual Project\obj\Debug\net6.0-windows\Visual_Project.REPORT.resources
+C:\Users\HP\OneDrive\Masaüstü\YM\3.sınıf Bahar\Visual Project\Visual Project\obj\Debug\net6.0-windows\Visual_Project.Form7.resources
+C:\Users\HP\OneDrive\Masaüstü\YM\3.sınıf Bahar\Visual Project\Visual Project\obj\Debug\net6.0-windows\Visual_Project.Form2.resources
+C:\Users\HP\OneDrive\Masaüstü\YM\3.sınıf Bahar\Visual Project\Visual Project\obj\Debug\net6.0-windows\Visual_Project.Form11.resources
+C:\Users\HP\OneDrive\Masaüstü\YM\3.sınıf Bahar\Visual Project\Visual Project\obj\Debug\net6.0-windows\Visual Project.csproj.GenerateResource.cache
+C:\Users\HP\OneDrive\Masaüstü\YM\3.sınıf Bahar\Visual Project\Visual Project\obj\Debug\net6.0-windows\Visual Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Masaüstü\YM\3.sınıf Bahar\Visual Project\Visual Project\obj\Debug\net6.0-windows\Visual Project.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Masaüstü\YM\3.sınıf Bahar\Visual Project\Visual Project\obj\Debug\net6.0-windows\Visual Project.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Masaüstü\YM\3.sınıf Bahar\Visual Project\Visual Project\obj\Debug\net6.0-windows\Visual Project.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Masaüstü\YM\3.sınıf Bahar\Visual Project\Visual Project\obj\Debug\net6.0-windows\Visual Project.csproj.CopyComplete
+C:\Users\HP\OneDrive\Masaüstü\YM\3.sınıf Bahar\Visual Project\Visual Project\obj\Debug\net6.0-windows\Visual Project.dll
+C:\Users\HP\OneDrive\Masaüstü\YM\3.sınıf Bahar\Visual Project\Visual Project\obj\Debug\net6.0-windows\refint\Visual Project.dll
+C:\Users\HP\OneDrive\Masaüstü\YM\3.sınıf Bahar\Visual Project\Visual Project\obj\Debug\net6.0-windows\Visual Project.pdb
+C:\Users\HP\OneDrive\Masaüstü\YM\3.sınıf Bahar\Visual Project\Visual Project\obj\Debug\net6.0-windows\Visual Project.genruntimeconfig.cache
+C:\Users\HP\OneDrive\Masaüstü\YM\3.sınıf Bahar\Visual Project\Visual Project\obj\Debug\net6.0-windows\ref\Visual Project.dll
